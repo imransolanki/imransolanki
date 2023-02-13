@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/imran-solanki"><img src="https://api.daily.dev/devcards/71e6aaba8c7f4b1d9351b8a8f2ae7304.png?r=az5" width="400" alt="Imran Solanki's Dev Card"/></a>
+
 <!--
 **imransolanki/imransolanki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
